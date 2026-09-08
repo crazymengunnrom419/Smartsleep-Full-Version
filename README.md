@@ -236,3 +236,6 @@ This repository serves as the official landing page for SmartSleep. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SmartSleep today!**
+
+---
+**Last updated:** 2026-09-08 21:35:54 UTC
